@@ -35,8 +35,17 @@ or
 
 This script is so simple that it works on every UNIX with Bash, Coreutils/Busbox and GTK3 themes.
 
-## Support ...
+## Support
+### Contact me:
+For any issues, suggestions, or questions, reach out via:
 
-Conatct me: **support@burixon.com.pl**
+- *Email:* support@burixon.dev  
+- *Contact form:* [Click here](https://burixon.dev/contact/)
+- *Bug reports:* [Click here](https://burixon.dev/bugreport/#GTK-reSlider)
 
-Support me: **[tips](https://burixon.com.pl/donate/)**
+### Support me:
+If you find this script useful, consider supporting my work by making a donation:
+
+[**Donations**](https://burixon.dev/donate/)
+
+Your contributions help in developing new projects and improving existing tools!
